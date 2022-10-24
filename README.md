@@ -21,7 +21,7 @@ me tornar um desenvolvedor Full-Stack. Quero mostrar o quão bom eu posso ser pa
 
 #### Status
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faeldevs&layout=compact)](https://github.com/faeldevs/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=faeldevs&layout=compact)](https://github.com/faeldevs/github-readme-stats)
 
 
 
