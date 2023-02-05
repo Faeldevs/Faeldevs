@@ -16,8 +16,7 @@
 #### O que eu almejo?
 
 
-Busco me tornar um desenvolvedor front-end, primeiramente, e com o passar do tempo
-me tornar um desenvolvedor Full-Stack. Quero mostrar o quão bom eu posso ser para as pessoas. ☺
+Busco me tornar um desenvolvedor front-end, com foco em Full-Stack. Quero mostrar o quão bom profissional eu sou para as pessoas. ☺
 
 #### Status
 
