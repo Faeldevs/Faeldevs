@@ -13,10 +13,10 @@
   <img align="center" alt="FIGMA" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div><br/>
 
-#### O que eu almejo?
+#### Sobre
 
 
-Busco me tornar um desenvolvedor front-end, com foco em Full-Stack. Quero mostrar o quão bom profissional eu sou para as pessoas. ☺
+Pessoa desenvolvedora Front-end com experiência em algumas linguagens e conhecimento em outras, tais como: HTML5, CSS3, SCSS, Javascript, Angular, Node.js, TS.
 
 #### Status
 
