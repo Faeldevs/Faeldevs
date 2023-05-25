@@ -18,7 +18,7 @@
 
 #### Sobre
 
-Nascido em Carangola - MG, tenho experiência em Contabilidade, estou em formação no curso de Administração pela UEMG (Universidade do Estado de Minas Gerais) e faço curso de programação em FRONT-END pela escola Alura.
+Tenho experiência com HTML5, CSS3, Javascript e React.js. Tenho pouco conhecimento em Angular e Typescript, mas ainda estou focado em aprender-los.
 
 #### Status
 
