@@ -3,6 +3,8 @@
 
 ![Fael GitHub stats](https://github-readme-stats.vercel.app/api?username=Faeldevs&show_icons=true&theme=synthwave)
 
+### Portfolio na Bio
+
 ## Tecnologias que utilizo/já utilizei:
 
 <div style="display: inline_block"><br/>
