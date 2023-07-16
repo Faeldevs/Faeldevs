@@ -5,7 +5,7 @@
 <h1 align="center">Hey 👋, Eu sou Rafael S. Silva</h1>
 <h3 align="center">Desenvolver Front-End e Administrador</h3>
 
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/file/hacker-hacking-in-the-dark-h2fu99nutzo132op.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/d1/2d/32/d12d3295cad41d1a793d36db240aab91.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faeldevs&label=Profile%20views&color=0e75b6&style=flat" alt="faeldevs" /> </p>
 
